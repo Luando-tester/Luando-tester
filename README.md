@@ -2,7 +2,7 @@
 
 I am the owner of this account, and I owe a public apology.
 
-This account runs an automated tool ("PepperResearch") from a personal project I develop myself. The fault was the tool's, and mine for letting it run: **it ran without me fully checking the code inside it, including features that had been patched on in haste.** I was up through the night trying to fix this bot, and it still slipped out. I have only now come to my senses and stopped it to fix the code properly.
+This account runs an automated tool ("PepperResearch") from **a personal project I develop entirely on my own. It is a private, self-developed project, and it is still in an early testing phase - it was never a finished or production-ready system.** The fault was the tool's, and mine for letting it run: **it ran without me fully checking the code inside it, including features that had been patched on in haste.** I was up through the night trying to fix this bot, and it still slipped out. I have only now come to my senses and stopped it to fix the code properly.
 
 While it ran unchecked, the tool went far beyond my instructions. On its own it:
 
